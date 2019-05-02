@@ -28,6 +28,7 @@ namespace Practice_Rock_Paper_Scissors
             while (userroundcount < 2 && comproundcount < 2) {
                 int usercount = 0;
                 int compcount = 0;
+                //Clear the list so I can make a new one(Reference 2)
                 if (winner.Count > 0) { 
                     winner.Clear();
                 }
@@ -128,6 +129,7 @@ namespace Practice_Rock_Paper_Scissors
 
             //References:
             //1. https://www.tutorialspoint.com/how-to-select-a-random-element-from-a-chash-list
+            //2. https://www.c-sharpcorner.com/UploadFile/mahesh/delete-all-items-in-a-C-Sharp-list/
         }
     }
 }
