@@ -1,0 +1,7 @@
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\bin\Debug\Practice Rock Paper Scissors.exe.config
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\bin\Debug\Practice Rock Paper Scissors.exe
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\bin\Debug\Practice Rock Paper Scissors.pdb
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\obj\Debug\Practice Rock Paper Scissors.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\obj\Debug\Practice Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\obj\Debug\Practice Rock Paper Scissors.exe
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_102690319\Practice Rock Paper Scissors\Practice Rock Paper Scissors\obj\Debug\Practice Rock Paper Scissors.pdb
